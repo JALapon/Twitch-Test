@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Fed/IdeaProjects/Twitch_Tests">
+        <classes>
+            <class name="BrowseCategories"></class>
+            <class name="Career"></class>
+            <class name="HomePage"></class>
+            <class name="Options"></class>
+            <class name="Stream"></class>
+            <class name="Login"></class>
+            <class name="Moderate"></class>
+            <class name="StreamManager"></class>
+        </classes>
+    </test>
+</suite>
